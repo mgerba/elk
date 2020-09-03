@@ -1,7 +1,13 @@
 # elk
 Configuration files to run ELK with dockercompose
 
-please install 
+Pre-Requisites  
 
-  docker docker.io docker-compose
+Docker:
+  https://docs.docker.com/get-docker/
+  
+Docker Compose:
+  https://docs.docker.com/compose/install/
+  
+
   
